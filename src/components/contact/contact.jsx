@@ -1,8 +1,8 @@
 import React from 'react'
 import "./contact.css";
 import {MdOutlineEmail} from "react-icons/md"
-import {PiMessengerLogoThin} from "react-icons/pi"
-import {FaWhatsapp} from "react-icons/fa"
+// import {PiMessengerLogoThin} from "react-icons/pi"
+// import {FaWhatsapp} from "react-icons/fa"
 import { useRef } from 'react';
 import emailjs from "emailjs-com"
 import {FaSnapchat} from "react-icons/fa"
